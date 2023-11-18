@@ -1,10 +1,10 @@
-# ELARIAMC - Serveur Mini-Jeux 1.8
+# ELARIAMC • Serveur Mini-Jeux 1.8
 
-Adresse de Connection › mc.elaria.fr
+Adresse de Connection » mc.elaria.fr
 
-Version › 1.8 à 1.20 !
+Version » 1.8 à 1.20 !
 
-Mode de Jeux › ❌
+Mode de Jeux » ❌
 
 # 📫 Contact
 
